@@ -1,0 +1,6 @@
+*.bmp
+*.obj
+PingPong.*
+*.~dfm
+*.~h
+*.~cpp
